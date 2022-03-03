@@ -5,7 +5,7 @@ Criação para fins educativos.
 
 ---------------------------
 
-Clone from Netflix
+<h2>Clone from Netflix</h2>
 
 Project from Bonieky Lacerda's instructions, using ReactJS, The Movie Database API to get movie data.
 Creation for educational fins.
