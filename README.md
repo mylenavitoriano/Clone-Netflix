@@ -1,4 +1,4 @@
-Clone da Netflix
+<h1>Clone da Netflix</h1>
 
 Projeto desenvolvido a partir das instruções do Bonieky Lacerda, utilizando ReactJS, API The Movie Database para obter dados dos filmes.
 Criação para fins educativos.
